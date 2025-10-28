@@ -1,4 +1,0 @@
-URL	http://etldata01.pln.co.id:8080/org.talend.administrator/
-User	deloitte_user@pln.co.id
-Pass	k3Bay0ran_#21
-	BJy6A7k8Mb8GqJ68J7zz
